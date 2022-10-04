@@ -1,0 +1,11 @@
+{
+  "name": "webportal-static",
+  "version": "1.0.0",
+  "description": "static site for profind",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
