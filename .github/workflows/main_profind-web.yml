@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'profind-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50AF1329C48E45D89BB771FF519E8FB0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE3945A09DC7456EB8D73819763B36CA }}
           package: .
